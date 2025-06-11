@@ -1,0 +1,36 @@
+{
+  "name": "InternshipDeadline",
+  "auto": true,
+  "trainingPhrases": [
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "When is the internship deadline?"
+        }
+      ]
+    },
+    {
+      "type": "EXAMPLE",
+      "parts": [
+        {
+          "text": "What's the last date to apply?"
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "messages": [
+        {
+          "text": {
+            "text": [
+              "The internship application deadline is July 15, 2025."
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "priority": 500000
+}
